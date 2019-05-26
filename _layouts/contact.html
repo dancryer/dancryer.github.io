@@ -1,0 +1,46 @@
+{% include header.html %}   
+
+{{ content }}
+
+<h3>Send me a message...</h3>
+
+<form id="element-" class="form" action="https://formspree.io/dan@dancryer.com" method="POST" enctype="multipart/form-data" data-validation="on">
+
+    <section class="form-group row">
+    <div class="col-lg-12">
+    <section class="form-group">
+    <label for="element-name">Name</label>
+    
+    <input id="element-name" type="text" class="form-control " name="name" value="" required>
+    
+    </section>
+    </div>
+    </section>
+    <section class="form-group">
+    <label for="element-email">Email Address</label>
+    
+    <input id="element-email" type="email" class="form-control " name="email" value="" required>
+    
+    </section>
+    <section class="form-group">
+    <label for="element-phone">Phone Number</label>
+    
+    <div class="controls">
+    <input id="element-phone" type="tel" class="phone form-control " name="phone" value="" pattern="([0-9 ]*)">
+    
+    </div>
+    </section>
+    <section class="form-group">
+    <label for="element-message">Message</label>
+    
+    <textarea rows="4" id="element-message" class="form-control " name="message" required=""></textarea>
+    
+    </section>
+    <footer>
+    <button type="submit" class="btn btn-primary">
+    Submit
+    </button>
+    </footer>
+    </form>
+
+{% include footer.html %}

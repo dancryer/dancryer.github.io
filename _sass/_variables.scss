@@ -1,0 +1,13 @@
+$primaryColor: #246;
+$secondaryColor: #369;
+$primaryFont: 'Bitter', serif;
+$headerFont: 'Changa One', cursive;
+
+body {
+  font-family: $primaryFont;
+  font-size: 18px;
+
+  h1, h2, h3, h4 {
+    font-family: $headerFont;
+  }
+}

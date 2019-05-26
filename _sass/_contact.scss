@@ -1,0 +1,21 @@
+body {
+    .nf-form-fields-required {
+      font-size: 0.8em;
+      color: #666;
+      margin-top: -20px;
+      margin-bottom: 40px;
+    }
+  
+    input, textarea {
+      border: 1px solid #ddd;
+      padding: 6px;
+    }
+  
+    input[type="button"] {
+      background: $secondaryColor;
+      border: none;
+      color: #fff;
+      padding: 10px 40px;
+      border-radius: 5px;
+    }
+}
