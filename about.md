@@ -8,11 +8,11 @@ description: >-
   
 ---
 
-I’m Dan Cryer, a freelance web developer living in Bollington, Cheshire. I’ve been doing development professionally for over ten years now, and as a hobby since my early teens. I’ve been involved in more projects than I could or would want to count.
+I’m Dan Cryer, a freelance web developer living in Bollington, Cheshire. I’ve been doing development professionally for over 15 years now, and as a hobby since my early teens. I’ve been involved in more projects than I could or would want to count.
 
 Prior to setting up on my own, I was managing the development team at Real and Smooth Radio. In the year or so I was there, we built a web publishing platform and launched nine web sites using it.
 
-Outside of work, I’m engaged and have two cats. I enjoy spending time with family and being outdoors. I also volunteer with Bollington Air Cadets, where I’m in charge of the cadets’ training and development, I’m also in training myself to become a commissioned officer.
+I enjoy spending time with family and being outdoors. I volunteer with Bollington Air Cadets, where I’m the Officer Commanding of the squadron.
 
 ## Experience
 
