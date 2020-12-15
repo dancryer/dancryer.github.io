@@ -1,13 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Dan Cryer
 description: >-
-  
+
 ---
 
-Hello! I’m Dan Cryer, a web development and technology specialist living in Bollington, Cheshire. I now help manage the technical team at Gear4music.com as the Head of Technical Operations.
+Hello! I’m Dan Cryer, a technical leader and software development specialist based in Cheshire UK. I currently lead the technical team at Gear4music.com as Technical Operations Director. 
 
-I am a full stack developer with a focus on PHP, MySQL and related technologies. My primary interest is in back-end development, server management, APIs and PHP optimisation.
+I come from a software development background, specialising primarily in DevOps, PHP, Database techologies, .NET and related technologies. These days my role is more about leadership, people management and effective delivery of work within technology teams.
