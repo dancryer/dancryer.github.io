@@ -12,6 +12,12 @@ I’m Dan Cryer, a technical leader and software development specialist based in
 
 Currently Technology Director at Gear4music.com, following several years of running Block 8 Digital, a bespoke software development agency. I've worked with many industries, including marketing, media, insurance, eCommerce, charity, government and more.
 
+I’m a compassionate and people-focused leader with an extensive background in software engineering, devops and infrastructure. I’m equally comfortable debugging software issues, or talking strategy in a boardroom, implementing cloud infrastructure changes or teaching people about neurodiversity.
+
+Throughout my career I’ve worked in-house, freelance and in agency, on projects and systems of all shapes and sizes. I’ve taken on the role of software engineer, system administrator, product manager and digital consultant.
+
+I’m highly pragmatic and love to solve difficult problems, whether they are organisational, product, process or technical. My greatest strengths have proven to be my enthusiasm, communication skills, problem-solving abilities, and bias for action in getting things done.
+
 I enjoy spending time with family and being outdoors. I'm a qualified Lowland (walking) Leader and Camping Leader, and enjoy paddlesports and bouldering.
 
 ## Experience
