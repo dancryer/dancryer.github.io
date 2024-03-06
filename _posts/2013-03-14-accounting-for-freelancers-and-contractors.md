@@ -12,8 +12,6 @@ Here's a few things I've learned along the way that I hope will be of help to ot
 
 This is the best piece of advice I could give anyone starting out on their own. A good accountant will help to save you significantly more than they will cost you each year, and more importantly they can save you from getting yourself into hot water. Whoever you speak to might also contradict some of the other things I've learned below, but that is okay, as everyone and every company is different - what suits me may be wrong for you.
 
-Lucky for me, my girlfriend's father is a partner in a local accountancy firm, [Heywood Shepherd Chartered Accountants](http://www.heywoodshepherd.co.uk/). This made them an obvious choice for me, but if you live in Cheshire, they are worth talking to.
-
 Speak to an accountant before you make any decisions about how to structure your new venture, including whether or not to become a limited company, whether to register for VAT, and so on.
 
 ### 2 - Limited companies are *very* tax efficient
